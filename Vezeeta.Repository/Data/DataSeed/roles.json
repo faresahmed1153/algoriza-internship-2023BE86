@@ -1,0 +1,17 @@
+[
+  {
+
+    "Name": "Patient",
+    "NormalizedName": "PATIENT"
+  },
+  {
+
+    "Name": "Doctor",
+    "NormalizedName": "DOCTOR"
+  },
+  {
+
+    "Name": "Admin",
+    "NormalizedName": "ADMIN"
+  }
+]

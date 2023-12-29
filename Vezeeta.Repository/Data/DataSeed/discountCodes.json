@@ -1,0 +1,30 @@
+[
+  {
+
+    "Code": "vezeeta10",
+    "Value": 10,
+    "Type": 0,
+    "BookingsCompleted": 5,
+    "IsActive": true
+
+  },
+  {
+
+    "Code": "vezeeta30",
+    "Value": 30,
+    "Type": 1,
+    "BookingsCompleted": 2,
+    "IsActive": true
+  },
+  {
+
+    "Code": "vezeeta5",
+    "Value": 5,
+    "Type": 0,
+    "BookingsCompleted": 7,
+    "IsActive": true
+
+  }
+  
+  
+]
